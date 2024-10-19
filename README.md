@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://wonebelay.com/blog](https://wonebelay.com/blog)
 
-- 💬 Ask me about **pandas,numpay,SQL ,JAVA ,POWER PI ,TENSFLOW ,FLASK ,PYTORCH**
+- 💬 Ask me about **pandas,numpay,SQL ,JAVA ,POWER BI ,TENSFLOW ,FLASK ,PYTORCH**
 
 - 📫 How to reach me **abwende2000@gmail.com**
 
